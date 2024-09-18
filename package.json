@@ -1,0 +1,41 @@
+{
+  "name": "flick-carousel",
+  "version": "1.0.0",
+  "description": "Elevate your user experience with Flick-Carousel, a dynamic and visually captivating carousel package designed to bring your content to life! Effortlessly showcase images, videos, or any media in a sleek, responsive interface. With smooth transitions and intuitive navigation, Flick-Carousel allows users to glide through your content with a simple flick of the finger or click of a mouse.",
+  "main": "index.js",
+    "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/renoldkingsely/Flick-carousel.git"
+  },
+  "keywords": [
+    "carousel",
+    "flick",
+    "slider",
+    "responsive",
+    "images",
+    "media",
+    "transitions",
+    "interactive",
+    "customizable",
+    "touch",
+    "navigation",
+    "gallery",
+    "showcase",
+    "web",
+    "mobile",
+    "accessibility",
+    "JavaScript",
+    "frontend",
+    "UX",
+    "presentation"
+  ],
+  "author": "renoldkingsely",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/renoldkingsely/Flick-carousel/issues"
+  },
+  "homepage": "https://github.com/renoldkingsely/Flick-carousel#readme"
+}
